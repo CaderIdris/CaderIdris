@@ -7,10 +7,6 @@ Python Developer - PhD Candidate - Aspiring Data Scientist
 
 - :dash: PhD Student in Environmental Engineering looking at improving measurement quality of low cost air quality sensors
 - :chart_with_upwards_trend: Aspiring data scientist, currently focusing on measurement comparison/calibration as part of my PhD
-- :school: Interested in/Learning:
-	- :crab: Rust
-	- :globe_with_meridians: React 
-	- :video_game: Teensy/Arduino
 
 ---
 
@@ -37,6 +33,7 @@ Python Developer - PhD Candidate - Aspiring Data Scientist
 - :crab: Rust
 - :globe_with_meridians: React 
 - :video_game: Teensy/Arduino
+- :atom_symbol: React.js
 
 
 ---
