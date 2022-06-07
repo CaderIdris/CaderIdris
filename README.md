@@ -5,6 +5,8 @@
 Python Developer - PhD Candidate - Aspiring Data Scientist
 <p/>
 
+**Contact**: CaderIdrisGH@outlook.com
+
 - :dash: PhD Student in Environmental Engineering looking at improving measurement quality of low cost air quality sensors
 - :chart_with_upwards_trend: Aspiring data scientist, currently focusing on measurement comparison/calibration as part of my PhD
 
