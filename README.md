@@ -18,6 +18,25 @@ Python Developer - PhD Candidate - Aspiring Data Scientist
 	Skills
 </h3>
 
+- :snake: Python 3
+- :alarm_clock: InfluxDB
+- :octocat: Git 
+- :books: Documentation
+- :chart_with_upwards_trend: Data visualisation
+
+
+
+---
+
+<h3>
+	Other Interests 
+</h3>
+
+- :globe_with_meridians: HTML/CSS
+- :scientist: Science communication
+- :crab: Rust
+- :globe_with_meridians: React 
+- :video_game: Teensy/Arduino
 
 
 ---
@@ -61,7 +80,7 @@ Python Developer - PhD Candidate - Aspiring Data Scientist
 |[GCARE-OPCN3](https://github.com/CaderIdris/GCARE-OPCN3)|Facilitates communication to and logging data from Alphasense OPC-N3. Designed for Raspberry Pi, other Linux devices can be used|
 
 <h5>
-	<a href="https://github.com/stars/CaderIdris/lists/influx-2-x-upload">InfluxDB 2.x Upload</a>
+	<a href="https://github.com/stars/CaderIdris/lists/influxdb-2-x-upload">InfluxDB 2.x Upload</a>
 </h5>
 
 |Project|Description|
