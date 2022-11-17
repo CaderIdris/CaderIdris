@@ -30,12 +30,8 @@ Python Developer - PhD Candidate - Aspiring Data Scientist
 	Other Interests 
 </h3>
 
-- :globe_with_meridians: HTML/CSS
 - :scientist: Science communication
 - :crab: Rust
-- :globe_with_meridians: React 
-- :video_game: Teensy/Arduino
-- :atom_symbol: React.js
 
 
 ---
