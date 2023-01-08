@@ -46,10 +46,17 @@ Python Developer - PhD Candidate - Aspiring Data Scientist
 
 |Project|Description|Stage|
 |---|---|---|
-|[Graddnodi](https://github.com/CaderIdris/Graddnodi)|Analyses data from collocation studies. Focuses on air quality measurements but can be applied to other fields|In development|
+|[Graddnodi](https://github.com/CaderIdris/Graddnodi)|Analyses data from collocation studies. Focuses on air quality measurements but can be applied to other fields|Testing|
 
 ---
 
+<h4>
+	<a href="https://github.com/stars/CaderIdris/lists/python-packages">Python Packages</a>
+</h4>
+
+|Project|Description|
+|---|---|---|
+|[haytex](https://github.com/CaderIdris/haytex)|Generates LaTeX report, including figures and tables from given inputs|
 
 <h4>
 	<a href="https://github.com/stars/CaderIdris/lists/phd">PhD Related</a>
