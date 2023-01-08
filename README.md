@@ -55,7 +55,7 @@ Python Developer - PhD Candidate - Aspiring Data Scientist
 </h4>
 
 |Project|Description|
-|---|---|---|
+|---|---|
 |[haytex](https://github.com/CaderIdris/haytex)|Generates LaTeX report, including figures and tables from given inputs|
 
 <h4>
