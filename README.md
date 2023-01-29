@@ -57,6 +57,7 @@ Python Developer - PhD Candidate - Aspiring Data Scientist
 |Project|Description|
 |---|---|
 |[haytex](https://github.com/CaderIdris/haytex)|Generates LaTeX report, including figures and tables from given inputs|
+|[calidhayte](https://github/com/CaderIdris/calidhayte)|Calibrates independent measurements against dependent, performs error calculations and plots graphs of results|
 
 <h4>
 	<a href="https://github.com/stars/CaderIdris/lists/phd">PhD Related</a>
